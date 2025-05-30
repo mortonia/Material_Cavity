@@ -1,0 +1,4 @@
+Number of atoms in original crystal: 125
+Number of atoms after cavity carving: 119
+Number of atoms after adding molecule: 122
+[LJ] Displaced atoms > 0.1 Å: 119

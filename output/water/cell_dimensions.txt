@@ -1,0 +1,8 @@
+Crystal cell dimensions (Å):
+  x: 12.622
+  y: 12.622
+  z: 12.622
+Suggested cavity centers:
+  center:        [np.float64(6.310928022089936), np.float64(6.310928022089936), np.float64(6.310928022089936)]
+  bottom-right:  [np.float64(11.359670439761885), np.float64(1.2621856044179873), np.float64(6.310928022089936)]
+  top-left:      [np.float64(1.2621856044179873), np.float64(11.359670439761885), np.float64(6.310928022089936)]

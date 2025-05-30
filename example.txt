@@ -1,0 +1,2 @@
+python3 visualize_displacements.py output/water/before_lj.xyz output/water/after_lj.xyz 0.1
+
